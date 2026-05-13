@@ -1,0 +1,108 @@
+{
+  "seed_log_files": [
+    "seed_log_oracle.csv",
+    "seed_log_practical.csv"
+  ],
+  "instance_seeds": [
+    {
+      "family": "smooth_low_variation",
+      "index": 0,
+      "seed": 20260513
+    },
+    {
+      "family": "smooth_low_variation",
+      "index": 1,
+      "seed": 20260514
+    },
+    {
+      "family": "smooth_low_variation",
+      "index": 2,
+      "seed": 20260515
+    },
+    {
+      "family": "smooth_low_variation",
+      "index": 3,
+      "seed": 20260516
+    },
+    {
+      "family": "smooth_low_variation",
+      "index": 4,
+      "seed": 20260517
+    },
+    {
+      "family": "edge_rolloff",
+      "index": 0,
+      "seed": 20261513
+    },
+    {
+      "family": "edge_rolloff",
+      "index": 1,
+      "seed": 20261514
+    },
+    {
+      "family": "edge_rolloff",
+      "index": 2,
+      "seed": 20261515
+    },
+    {
+      "family": "edge_rolloff",
+      "index": 3,
+      "seed": 20261516
+    },
+    {
+      "family": "edge_rolloff",
+      "index": 4,
+      "seed": 20261517
+    },
+    {
+      "family": "local_bump",
+      "index": 0,
+      "seed": 20262513
+    },
+    {
+      "family": "local_bump",
+      "index": 1,
+      "seed": 20262514
+    },
+    {
+      "family": "local_bump",
+      "index": 2,
+      "seed": 20262515
+    },
+    {
+      "family": "local_bump",
+      "index": 3,
+      "seed": 20262516
+    },
+    {
+      "family": "local_bump",
+      "index": 4,
+      "seed": 20262517
+    },
+    {
+      "family": "mid_frequency_undulation",
+      "index": 0,
+      "seed": 20263513
+    },
+    {
+      "family": "mid_frequency_undulation",
+      "index": 1,
+      "seed": 20263514
+    },
+    {
+      "family": "mid_frequency_undulation",
+      "index": 2,
+      "seed": 20263515
+    },
+    {
+      "family": "mid_frequency_undulation",
+      "index": 3,
+      "seed": 20263516
+    },
+    {
+      "family": "mid_frequency_undulation",
+      "index": 4,
+      "seed": 20263517
+    }
+  ]
+}

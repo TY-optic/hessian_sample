@@ -1,0 +1,5 @@
+{
+  "passed": true,
+  "forbidden_functions": [],
+  "note": "Practical Hessian path uses sampled measurements via reconstruct_poly_residual_from_samples; full-field truth is blocked by TruthLeakageGuard."
+}

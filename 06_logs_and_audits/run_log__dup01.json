@@ -1,0 +1,15 @@
+{
+  "status": "completed",
+  "fixed_random_seed": 20260513,
+  "instances": 20,
+  "modules": [
+    "mainline",
+    "A_budget",
+    "B_error_transfer",
+    "C_point_scan",
+    "D_trend_residual",
+    "E_family_stability",
+    "F_unified_stats"
+  ],
+  "nan_inf_self_check": "passed"
+}
