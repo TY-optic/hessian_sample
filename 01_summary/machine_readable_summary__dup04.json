@@ -1,0 +1,7 @@
+{
+  "trend_low_to_high_power_ratio": 1195.0332328198685,
+  "detrended_low_to_high_power_ratio": 492.0928672417835,
+  "degree5_mean_trend_energy_ratio": 0.9053886881236671,
+  "degree5_mean_residual_energy_ratio": 0.0946113117989604,
+  "passed": true
+}

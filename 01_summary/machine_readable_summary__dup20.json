@@ -1,0 +1,12 @@
+{
+  "mean_local_improvement": 0.5445673701026527,
+  "median_local_improvement": 0.5522493502139806,
+  "iqr_local_improvement": 0.20739837357658686,
+  "bootstrap95_local_low": 0.48721572437847904,
+  "bootstrap95_local_high": 0.6033972311829802,
+  "positive_local_ratio": 1.0,
+  "paired_effect_size_local_dz": 1.3666586514092984,
+  "mean_global_improvement": 0.2908473079269547,
+  "positive_global_ratio": 1.0,
+  "passed": true
+}

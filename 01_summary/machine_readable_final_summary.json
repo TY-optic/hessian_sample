@@ -1,0 +1,121 @@
+{
+  "oracle": {
+    "mainline": {
+      "reproduced": true,
+      "mean_local_improvement": 0.5571089123522233,
+      "positive_ratio": 1.0,
+      "wilcoxon_p": 9.5367431640625e-07
+    },
+    "A_budget": {
+      "mean_afp_high_ratio": 0.2734375,
+      "mean_exchange_high_ratio": 0.534375,
+      "mean_ratio_increase": 0.2609375,
+      "mean_fill_distance_reduction": 0.028573158515563368,
+      "mean_swap_in_minus_out_hessian": 0.3513383509147912,
+      "passed": true
+    },
+    "B_error_transfer": {
+      "mean_abs_decomposition_error": 2.4248986784103363e-10,
+      "mean_high_improvement": 0.5571089123522232,
+      "mean_low_improvement": -0.3504432765828015,
+      "mean_global_improvement": 0.26083925751660036,
+      "non_improved_global_cases": 1,
+      "passed": true
+    },
+    "C_point_scan": {
+      "passed_point_counts": 5,
+      "total_point_counts": 5,
+      "mean_local_improvement_across_counts": 0.4789769982608815,
+      "passed": true
+    },
+    "D_trend_residual": {
+      "degree5_mean_trend_energy_ratio": 0.9053886881236671,
+      "degree5_mean_residual_energy_ratio": 0.0946113117989604,
+      "passed": true
+    },
+    "E_family_stability": {
+      "families_all_positive_ratio_ge_70": true,
+      "mean_family_improvement": 0.5571089123522232,
+      "weakest_family": "edge_rolloff",
+      "strongest_family": "mid_frequency_undulation"
+    },
+    "F_unified_stats": {
+      "mean_local_improvement": 0.5571089123522233,
+      "median_local_improvement": 0.5671955691335996,
+      "iqr_local_improvement": 0.2583400867226073,
+      "bootstrap95_local_low": 0.494705650051563,
+      "bootstrap95_local_high": 0.6156376998251517,
+      "positive_local_ratio": 1.0,
+      "paired_effect_size_local_dz": 1.3970602032565973,
+      "mean_global_improvement": 0.26083925751660036,
+      "positive_global_ratio": 0.95,
+      "passed": true
+    }
+  },
+  "practical": {
+    "mainline": {
+      "reproduced": true,
+      "mean_local_improvement": 0.5445673701026527,
+      "positive_ratio": 1.0,
+      "wilcoxon_p": 9.5367431640625e-07
+    },
+    "A_budget": {
+      "mean_afp_high_ratio": 0.32734375,
+      "mean_exchange_high_ratio": 0.5515625,
+      "mean_ratio_increase": 0.22421875,
+      "mean_fill_distance_reduction": 0.024104314526572607,
+      "mean_swap_in_minus_out_hessian": 0.33634800954101196,
+      "passed": true
+    },
+    "B_error_transfer": {
+      "mean_abs_decomposition_error": 1.7346648503169488e-10,
+      "mean_high_improvement": 0.5445673701026524,
+      "mean_low_improvement": -0.03685606976588236,
+      "mean_global_improvement": 0.29084730792695457,
+      "non_improved_global_cases": 0,
+      "passed": true
+    },
+    "C_point_scan": {
+      "passed_point_counts": 5,
+      "total_point_counts": 5,
+      "mean_local_improvement_across_counts": 0.45160497755554124,
+      "passed": true
+    },
+    "D_trend_residual": {
+      "degree5_mean_trend_energy_ratio": 0.9053886881236671,
+      "degree5_mean_residual_energy_ratio": 0.0946113117989604,
+      "passed": true
+    },
+    "E_family_stability": {
+      "families_all_positive_ratio_ge_70": true,
+      "mean_family_improvement": 0.5445673701026525,
+      "weakest_family": "edge_rolloff",
+      "strongest_family": "mid_frequency_undulation"
+    },
+    "F_unified_stats": {
+      "mean_local_improvement": 0.5445673701026527,
+      "median_local_improvement": 0.5522493502139806,
+      "iqr_local_improvement": 0.20739837357658686,
+      "bootstrap95_local_low": 0.48721572437847904,
+      "bootstrap95_local_high": 0.6033972311829802,
+      "positive_local_ratio": 1.0,
+      "paired_effect_size_local_dz": 1.3666586514092984,
+      "mean_global_improvement": 0.2908473079269547,
+      "positive_global_ratio": 1.0,
+      "passed": true
+    }
+  },
+  "strong_baselines": {
+    "exchange_mean_improvement_vs_best_traditional": 0.4453874232923699,
+    "exchange_positive_ratio_vs_best_traditional": 1.0,
+    "exchange_mean_improvement_vs_hessian_weighted": 0.26705661947849724,
+    "exchange_positive_ratio_vs_hessian_weighted": 0.9,
+    "passed": true
+  },
+  "leakage_audit": {
+    "passed": true,
+    "forbidden_functions": [],
+    "note": "Practical Hessian path uses sampled measurements via reconstruct_poly_residual_from_samples; full-field truth is blocked by TruthLeakageGuard."
+  },
+  "core_claim_survives_practical": true
+}

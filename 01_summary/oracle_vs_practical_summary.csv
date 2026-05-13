@@ -1,0 +1,4 @@
+metric,oracle,practical,practical_retention_ratio
+local_improvement,0.5571089123522233,0.5445673701026527,0.9774881679821003
+budget_high_ratio_increase,0.2609375,0.22421875,0.8592814371224555
+point_scan_passed_counts,5,5,1.0

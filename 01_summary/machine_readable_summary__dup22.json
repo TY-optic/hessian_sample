@@ -1,0 +1,6 @@
+{
+  "reproduced": true,
+  "mean_local_improvement_exchange_vs_afp_residual": 0.3341146355967134,
+  "positive_ratio": 1.0,
+  "wilcoxon_p": 9.5367431640625e-07
+}

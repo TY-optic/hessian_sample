@@ -1,0 +1,58 @@
+{
+  "mainline": {
+    "reproduced": true,
+    "mean_local_improvement_exchange_vs_afp_residual": 0.3341146355967134,
+    "positive_ratio": 1.0,
+    "wilcoxon_p": 9.5367431640625e-07
+  },
+  "A_budget": {
+    "mean_afp_high_ratio": 0.2734375,
+    "mean_exchange_high_ratio": 0.38671875,
+    "mean_ratio_increase": 0.11328125,
+    "mean_afp_high_fill_distance": 0.07909845607253554,
+    "mean_exchange_high_fill_distance": 0.06484450800192473,
+    "mean_fill_distance_reduction": 0.014253948070610825,
+    "mean_swap_in_minus_out_hessian": 0.3567547800021786,
+    "passed": true
+  },
+  "B_error_transfer": {
+    "mean_abs_decomposition_error": 3.0623510602491346e-10,
+    "mean_high_improvement": 0.3341146355967134,
+    "mean_low_improvement": -0.105016434260604,
+    "mean_global_improvement": 0.21857834827239633,
+    "non_improved_global_cases": 0,
+    "passed": true
+  },
+  "C_point_scan": {
+    "passed_point_counts": 5,
+    "total_point_counts": 5,
+    "best_n_by_exchange_local_rmse": 81,
+    "mean_local_improvement_across_counts": 0.2711311071875232,
+    "passed": true
+  },
+  "D_trend_residual": {
+    "trend_low_to_high_power_ratio": 1195.0332328198685,
+    "detrended_low_to_high_power_ratio": 492.0928672417835,
+    "degree5_mean_trend_energy_ratio": 0.9053886881236671,
+    "degree5_mean_residual_energy_ratio": 0.0946113117989604,
+    "passed": true
+  },
+  "E_family_stability": {
+    "families_all_positive_ratio_ge_70": true,
+    "mean_family_improvement": 0.3341146355967135,
+    "weakest_family": "edge_rolloff",
+    "strongest_family": "mid_frequency_undulation"
+  },
+  "F_unified_stats": {
+    "mean_local_improvement": 0.3341146355967134,
+    "median_local_improvement": 0.3189191534392495,
+    "iqr_local_improvement": 0.2526189897241065,
+    "bootstrap95_local_low": 0.2566902326914525,
+    "bootstrap95_local_high": 0.41455852072121635,
+    "positive_local_ratio": 1.0,
+    "paired_effect_size_local_dz": 1.033143684263165,
+    "mean_global_improvement": 0.21857834827239628,
+    "positive_global_ratio": 1.0,
+    "passed": true
+  }
+}

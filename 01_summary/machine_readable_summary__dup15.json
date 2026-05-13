@@ -1,0 +1,8 @@
+{
+  "mean_afp_high_ratio": 0.32734375,
+  "mean_exchange_high_ratio": 0.5515625,
+  "mean_ratio_increase": 0.22421875,
+  "mean_fill_distance_reduction": 0.024104314526572607,
+  "mean_swap_in_minus_out_hessian": 0.33634800954101196,
+  "passed": true
+}

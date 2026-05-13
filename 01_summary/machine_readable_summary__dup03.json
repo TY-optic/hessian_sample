@@ -1,0 +1,7 @@
+{
+  "passed_point_counts": 5,
+  "total_point_counts": 5,
+  "best_n_by_exchange_local_rmse": 81,
+  "mean_local_improvement_across_counts": 0.2711311071875232,
+  "passed": true
+}

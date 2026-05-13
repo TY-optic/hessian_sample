@@ -1,0 +1,11 @@
+metric,value
+mean_local_improvement,0.5571089123522233
+median_local_improvement,0.5671955691335996
+iqr_local_improvement,0.2583400867226073
+bootstrap95_local_low,0.494705650051563
+bootstrap95_local_high,0.6156376998251517
+positive_local_ratio,1.0
+paired_effect_size_local_dz,1.3970602032565973
+mean_global_improvement,0.26083925751660036
+positive_global_ratio,0.95
+passed,True

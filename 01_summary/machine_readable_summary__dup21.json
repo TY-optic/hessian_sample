@@ -1,0 +1,7 @@
+{
+  "exchange_mean_improvement_vs_best_traditional": 0.4453874232923699,
+  "exchange_positive_ratio_vs_best_traditional": 1.0,
+  "exchange_mean_improvement_vs_hessian_weighted": 0.26705661947849724,
+  "exchange_positive_ratio_vs_hessian_weighted": 0.9,
+  "passed": true
+}

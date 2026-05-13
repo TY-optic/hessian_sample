@@ -1,0 +1,8 @@
+{
+  "mean_abs_decomposition_error": 1.7346648503169488e-10,
+  "mean_high_improvement": 0.5445673701026524,
+  "mean_low_improvement": -0.03685606976588236,
+  "mean_global_improvement": 0.29084730792695457,
+  "non_improved_global_cases": 0,
+  "passed": true
+}

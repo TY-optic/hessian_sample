@@ -1,0 +1,6 @@
+{
+  "families_all_positive_ratio_ge_70": true,
+  "mean_family_improvement": 0.3341146355967135,
+  "weakest_family": "edge_rolloff",
+  "strongest_family": "mid_frequency_undulation"
+}
