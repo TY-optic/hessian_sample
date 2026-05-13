@@ -1,0 +1,29 @@
+{
+  "random_seed": 20260513,
+  "grid_size": 52,
+  "instances_per_family": 5,
+  "sample_count": 64,
+  "point_scan_counts": [
+    36,
+    49,
+    64,
+    81,
+    100
+  ],
+  "candidate_count": 700,
+  "poly_degree": 5,
+  "poly_degree_scan": [
+    3,
+    5,
+    7,
+    9,
+    11
+  ],
+  "local_quantile": 0.8,
+  "min_distance": 0.055,
+  "optimization_rounds": 12,
+  "optimization_trials_per_round": 6,
+  "point_scan_rounds": 8,
+  "bootstrap_repeats": 2000,
+  "hessian_mode": "practical"
+}

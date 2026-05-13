@@ -1,0 +1,16 @@
+{
+  "passed_phase1": true,
+  "mean_global_improvement": 0.1000137572015086,
+  "mean_local_improvement": 0.3170293634137166,
+  "global_positive_ratio": 0.75,
+  "local_positive_ratio": 1.0,
+  "wilcoxon_p_global": 0.0015764236450195312,
+  "wilcoxon_p_local": 9.5367431640625e-07,
+  "criteria": {
+    "mean_local_improvement_ge_15pct": true,
+    "mean_global_improvement_ge_5pct": true,
+    "local_positive_ratio_ge_70pct": true,
+    "global_positive_ratio_ge_60pct": true,
+    "wilcoxon_significant": true
+  }
+}

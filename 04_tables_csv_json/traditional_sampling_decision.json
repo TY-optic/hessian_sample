@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "mean_local_improvement_vs_afp": 0.40370541274864136,
+  "mean_local_improvement_vs_best_traditional": 0.3400917283708514,
+  "positive_ratio_vs_afp": 1.0,
+  "p_vs_afp": 9.5367431640625e-07,
+  "p_vs_best_traditional": 9.5367431640625e-07
+}

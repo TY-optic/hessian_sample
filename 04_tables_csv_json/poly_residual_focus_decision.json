@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "poly_degree": 5,
+  "mean_local_improvement_afp_residual_over_poly": 0.5088146599101087,
+  "mean_local_improvement_exchange_over_afp_residual": 0.4260508796645226,
+  "mean_local_improvement_exchange_over_poly": 0.7020949028506684,
+  "positive_ratio_exchange_over_afp_residual": 1.0,
+  "p_poly_vs_residual": 9.5367431640625e-07,
+  "p_afp_residual_vs_exchange": 9.5367431640625e-07
+}

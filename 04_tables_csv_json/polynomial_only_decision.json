@@ -1,0 +1,10 @@
+{
+  "passed_interpretation": false,
+  "best_degree": 5,
+  "degree_to_layout_effect_ratio": 1.0758019578042053,
+  "mean_local_improvement_exchange_vs_afp": 0.04463799930696942,
+  "positive_ratio": 0.8,
+  "p_value": 0.0005083084106445312,
+  "model_limited": false,
+  "exchange_significant_under_poly": false
+}

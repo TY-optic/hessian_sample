@@ -1,0 +1,12 @@
+{
+  "root": "F:\\大论文课题\\Paper\\自由曲面采样\\hessian场-神经网络\\sampling_optimization_study",
+  "grid_size": 56,
+  "sample_count": 64,
+  "candidate_count": 720,
+  "instances_per_family": 5,
+  "random_seed": 20260513,
+  "local_quantile": 0.8,
+  "min_distance": 0.055,
+  "optimization_rounds": 14,
+  "optimization_trials_per_round": 7
+}
