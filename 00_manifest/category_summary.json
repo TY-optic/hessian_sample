@@ -1,0 +1,17 @@
+﻿{
+    "total_scanned_files":  370,
+    "total_all_indexed_files":  1692,
+    "total_copied_files":  369,
+    "category_counts":  {
+                            "01_summary":  96,
+                            "02_configs":  4,
+                            "03_core_code":  15,
+                            "04_tables_csv_json":  47,
+                            "05_figures_png_pdf":  103,
+                            "06_logs_and_audits":  52,
+                            "07_tests":  4,
+                            "08_other_possible_relevant":  48
+                        },
+    "duplicate_renamed_count":  131,
+    "possible_missing_candidates_count":  0
+}
